@@ -1,0 +1,21 @@
+* a760358 (HEAD -> main, origin/main) docs: Add changelog
+* fa657ff Add Git Mastery Challenge journey documentation
+| * c586c27 (origin/feature/another-feature) feat: Add test feature
+|/  
+* 96074f2 (tag: v1.1.0, tag: v1.0.0, feature/another-feature) docs: Update README
+* b56ff31 Update README.md
+* d002221 docs: Add FAQ section
+| * bd46319 (feature/new-feature) Update README.md
+| * f929c81 (origin/feature/new-feature) feat: Add new feature
+|/  
+*   7759ded Resolved merge conflict in app-config.yaml
+|\  
+| * d3dd9b2 (instructor/conflict-simulator, conflict-simulator) updating conflict-simulator
+* |   bf3a807 merge: Resolve all conflicts between main and dev branches
+|\ \  
+| * | 02011a5 (instructor/dev) updating dev
+| |/  
+* | 0312c6f (instructor/main, instructor/HEAD) updating main
+* | fadfd24 Revise README for DevOps Simulator project
+|/  
+* ae630eb Initial commit
